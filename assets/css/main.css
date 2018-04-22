@@ -1584,7 +1584,8 @@
 	}
 
 		a:hover {
-			color: #e44c65 !important;
+			/* #e44c65 */
+			color: black !important;
 			border-bottom-color: transparent;
 		}
 
